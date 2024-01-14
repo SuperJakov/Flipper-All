@@ -22,7 +22,7 @@ To get started, we will have to download qFlipper
 
 ### Why install Custom firmware?
 
-Custom firmwares are best because you don't have to install apps by yourselfs
+Custom firmwares are best because you don't have to install apps by yourself
 
 We will be installing Custom firmware called [Xtreme Firmware](https://flipper-xtre.me/)
 
