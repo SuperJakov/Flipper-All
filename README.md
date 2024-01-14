@@ -16,7 +16,7 @@ To get started, we will have to download qFlipper
 
 4. Press **install** in the qFlipper app
 
-![Install Official firmware](Images\qflipper-install-OFW.png)
+![Install Official firmware](Images/qflipper-install-OFW.png)
 
 5. We can Install Custom firmware now
 
