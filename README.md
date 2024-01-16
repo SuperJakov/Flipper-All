@@ -26,6 +26,8 @@ Custom firmwares are best because you don't have to install apps by yourself
 
 We will be installing Custom firmware called [Xtreme Firmware](https://flipper-xtre.me/)
 
+If you're going to install apps, you will need to know that you're running Xtreme Developer version
+
 ![Xtreme firmware image](Images/xtreme.png)
 
 Here are steps to download it:
