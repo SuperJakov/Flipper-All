@@ -18,7 +18,7 @@ To get started, we will have to download qFlipper
 
 ![Install Official firmware](Images/qflipper-install-OFW.png)
 
-5. We can Install Custom firmware now
+5. [We can Install Custom firmware now (next step)](#why-install-custom-firmware)
 
 ### Why install Custom firmware?
 
@@ -42,7 +42,7 @@ Here are steps to download it:
 
 4. Select file `Xtreme-Latest/XFW-DEV_@XXXXXXX.tgz` (dont unzip)
 
-5. Confirm and **DONT UNPLUG FLIPPER ZERO** (if you unplug enter DFU mode)
+5. Confirm and **DONT UNPLUG FLIPPER ZERO**
 
 ### My BadKb files
 
