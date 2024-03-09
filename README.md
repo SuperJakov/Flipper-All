@@ -40,7 +40,7 @@ Here are steps to download it:
 
 ![Install from file](Images/qflipper-install-from-file.png)
 
-4. Select file `Xtreme-Latest/XFW-DEV_@XXXXXXX.tgz` (dont unzip)
+4. Select file `Xtreme-Latest/XFW-XXXX_XXXXXXXX.tgz` (don't unzip)
 
 5. Confirm and **DONT UNPLUG FLIPPER ZERO**
 
